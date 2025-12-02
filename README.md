@@ -1,1 +1,1 @@
-# SoftMatter_Hameedetal_2025
+# Shape spectra of elastic shells with surface-adsorbed semiflexible polymers
